@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5217050787740200796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2286149145013601246}
+  - component: {fileID: 1225656954452357682}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2286149145013601246
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5217050787740200796}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1225656954452357682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5217050787740200796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977eaf7e3937b4944a884178145921d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Pop
+    clip: {fileID: 8300000, guid: 110d77b872a16974ebe34614fcd45a6d, type: 3}
+    pitch: 1
+    volume: 1.55
+    loop: 0
+    source: {fileID: 0}
+  - name: Music
+    clip: {fileID: 8300000, guid: 923e866251e5704428c561dacf12d1ca, type: 3}
+    pitch: 0.97
+    volume: 0.5
+    loop: 1
+    source: {fileID: 0}
+  - name: Dash
+    clip: {fileID: 8300000, guid: be8351d8d36a9ba4b949f197f251145d, type: 3}
+    pitch: 0.85
+    volume: 0.15
+    loop: 0
+    source: {fileID: 0}
+  - name: Walk
+    clip: {fileID: 8300000, guid: 9789cbf8995153a488336a05baeadf0b, type: 3}
+    pitch: 0.9
+    volume: 0.1
+    loop: 0
+    source: {fileID: 0}
+  - name: Zz
+    clip: {fileID: 8300000, guid: 6ce0cb5e1836ab74192222912e2c2cd0, type: 3}
+    pitch: 1
+    volume: 1.5
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyHit1
+    clip: {fileID: 8300000, guid: f6043a02d3e51754a94dbe5142fe8cbc, type: 3}
+    pitch: 1
+    volume: 1.91
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyHit2
+    clip: {fileID: 8300000, guid: 2d6dcc70bea1a754281b61fceccb9701, type: 3}
+    pitch: 1
+    volume: 2
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyHit3
+    clip: {fileID: 8300000, guid: 70b50544a5f560c44a7b50adcfc2e819, type: 3}
+    pitch: 1
+    volume: 1.17
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyHit4
+    clip: {fileID: 8300000, guid: 35e5770c377ab0c41859f7e9885ae1b1, type: 3}
+    pitch: 1
+    volume: 0.43
+    loop: 0
+    source: {fileID: 0}
+  - name: EnemyHit5
+    clip: {fileID: 8300000, guid: e66e31d7ffbd2af4e92ef59ca8ebadf6, type: 3}
+    pitch: 1
+    volume: 1.8
+    loop: 0
+    source: {fileID: 0}
