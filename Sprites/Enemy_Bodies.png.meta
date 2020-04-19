@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: fc86a4f7c14161e469df0256eade14e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1602417949899029671
+    second: Enemy_Bodies_0
+  - first:
+      213: 7777730140634706293
+    second: Enemy_Bodies_1
+  - first:
+      213: -5892741808744547484
+    second: Enemy_Bodies_2
+  - first:
+      213: -6395309264606589781
+    second: Enemy_Bodies_3
+  - first:
+      213: 9111992038628937603
+    second: Enemy_Bodies_4
+  - first:
+      213: -7880732332328012745
+    second: Enemy_Bodies_5
+  - first:
+      213: 8144116931235152073
+    second: Enemy_Bodies_6
+  - first:
+      213: -7572626790595059188
+    second: Enemy_Bodies_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Bodies_0
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1054
+        width: 124
+        height: 152
+      alignment: 9
+      pivot: {x: 0.528215, y: 0.12020713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530f825d5113c9e0800000000000000
+      internalID: -1602417949899029671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 124
+        height: 152
+      alignment: 9
+      pivot: {x: 0.51410764, y: 0.15473416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571716fca5c00fb60800000000000000
+      internalID: 7777730140634706293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 521
+        width: 124
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.13171588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b30b8cb86c83ea0800000000000000
+      internalID: -5892741808744547484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 537
+        width: 124
+        height: 153
+      alignment: 9
+      pivot: {x: 0.54232293, y: 0.12268944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac0c5e8b1c4f37a0800000000000000
+      internalID: -6395309264606589781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_4
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 542
+        width: 125
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5559795, y: 0.13171628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4aa25b7c447e70800000000000000
+      internalID: 9111992038628937603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_5
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 550
+        width: 117
+        height: 152
+      alignment: 9
+      pivot: {x: 0.52990305, y: 0.12020713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73437a992b302a290800000000000000
+      internalID: -7880732332328012745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 117
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5299035, y: 0.11125562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c004871337b50170800000000000000
+      internalID: 8144116931235152073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bodies_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 131
+        height: 152
+      alignment: 9
+      pivot: {x: 0.52670777, y: 0.13171598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a9f13e00a8e690800000000000000
+      internalID: -7572626790595059188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

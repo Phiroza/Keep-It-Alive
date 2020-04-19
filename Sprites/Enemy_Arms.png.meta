@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 324a734c953361642b700f8f4accfdc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7484016816630709041
+    second: Enemy_Arms_0
+  - first:
+      213: 4713875032809547817
+    second: Enemy_Arms_1
+  - first:
+      213: 8304408034975843400
+    second: Enemy_Arms_2
+  - first:
+      213: -5206501880033701368
+    second: Enemy_Arms_3
+  - first:
+      213: -2495984154973888538
+    second: Enemy_Arms_4
+  - first:
+      213: 9077878288076077133
+    second: Enemy_Arms_5
+  - first:
+      213: 4894748810707511561
+    second: Enemy_Arms_6
+  - first:
+      213: 407458352409154385
+    second: Enemy_Arms_7
+  - first:
+      213: -5286116951869511537
+    second: Enemy_Arms_8
+  - first:
+      213: 1157744698798411543
+    second: Enemy_Arms_9
+  - first:
+      213: -3602051828059683404
+    second: Enemy_Arms_10
+  - first:
+      213: 8497296987414856165
+    second: Enemy_Arms_11
+  - first:
+      213: -4669391863056474627
+    second: Enemy_Arms_12
+  - first:
+      213: 9119696418704700459
+    second: Enemy_Arms_13
+  - first:
+      213: 7344765044566351066
+    second: Enemy_Arms_14
+  - first:
+      213: 5636039111211121838
+    second: Enemy_Arms_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Arms_0
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1051
+        width: 104
+        height: 134
+      alignment: 9
+      pivot: {x: 0.83055586, y: 0.70524025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb25884a19cd760800000000000000
+      internalID: 7484016816630709041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1070
+        width: 87
+        height: 115
+      alignment: 9
+      pivot: {x: 0.18388279, y: 0.8437776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928223efd5c0b6140800000000000000
+      internalID: 4713875032809547817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 92
+        height: 112
+      alignment: 9
+      pivot: {x: 0.7802531, y: 0.8069436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84482a2fb1f2f3370800000000000000
+      internalID: 8304408034975843400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 549
+        width: 87
+        height: 117
+      alignment: 9
+      pivot: {x: 0.26291245, y: 0.8085181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021036102aceb7b0800000000000000
+      internalID: -5206501880033701368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 527
+        width: 93
+        height: 112
+      alignment: 9
+      pivot: {x: 0.7587569, y: 0.82229125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef17c5a2ab7c5dd0800000000000000
+      internalID: -2495984154973888538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 545
+        width: 87
+        height: 116
+      alignment: 9
+      pivot: {x: 0.22339779, y: 0.8704492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487103d43a1bfd70800000000000000
+      internalID: 9077878288076077133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_6
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 544
+        width: 94
+        height: 112
+      alignment: 9
+      pivot: {x: 0.79257655, y: 0.8529854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909acfe1c14ade340800000000000000
+      internalID: 4894748810707511561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_7
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 562
+        width: 89
+        height: 116
+      alignment: 9
+      pivot: {x: 0.22961426, y: 0.8556319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531d14763597a500800000000000000
+      internalID: 407458352409154385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 547
+        width: 93
+        height: 113
+      alignment: 9
+      pivot: {x: 0.81420505, y: 0.8042278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a5aaa3a0f3a6b0800000000000000
+      internalID: -5286116951869511537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_9
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 566
+        width: 87
+        height: 116
+      alignment: 9
+      pivot: {x: 0.22339849, y: 0.8259956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f88786ba2211010800000000000000
+      internalID: 1157744698798411543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_10
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 556
+        width: 94
+        height: 113
+      alignment: 9
+      pivot: {x: 0.79257655, y: 0.8042278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5c4f562f0f20ec0800000000000000
+      internalID: -3602051828059683404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_11
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 540
+        width: 86
+        height: 151
+      alignment: 9
+      pivot: {x: 0.20019531, y: 0.87565035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10cd5e6967ce570800000000000000
+      internalID: 8497296987414856165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 93
+        height: 112
+      alignment: 9
+      pivot: {x: 0.79572237, y: 0.8069441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5b6d07dcf23fb0800000000000000
+      internalID: -4669391863056474627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 88
+        height: 117
+      alignment: 9
+      pivot: {x: 0.20700836, y: 0.8672835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bb48139baf8e70800000000000000
+      internalID: 9119696418704700459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 93
+        height: 110
+      alignment: 9
+      pivot: {x: 0.81420505, y: 0.7656465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5510d4e8dde560800000000000000
+      internalID: 7344765044566351066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Arms_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 13
+        width: 94
+        height: 119
+      alignment: 9
+      pivot: {x: 0.17085233, y: 0.8466659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac72fbe5bb373e40800000000000000
+      internalID: 5636039111211121838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
